@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+<img width="1440" alt="Screenshot 2024-05-14 at 16 29 46" src="https://github.com/Bahjazz/Chatgpt/assets/33488207/01c40789-5e7e-4089-8fc1-3d8677845fdd">
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
